@@ -1,0 +1,8 @@
+https://www.nirsoft.net
+referencesource.microsoft.com/
+https://github.com/icsharpcode/ILSpy/releases
+https://docs.microsoft.com/de-de/dotnet/standard/frameworks
+https://serilog.net/
+https://developer.microsoft.com/de-de/windows/downloads/virtual-machines/
+https://linqsamples.com/
+https://github.com/ComponentFactory/Krypton
