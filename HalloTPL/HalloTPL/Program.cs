@@ -18,7 +18,7 @@ namespace HalloTPL
             {
                 Console.WriteLine("T1 gestartet");
                 Thread.Sleep(1500);
-                throw new FileNotFoundException();
+                //throw new FileNotFoundException();
                 Console.WriteLine("T1 fertig");
             });
 
